@@ -9,5 +9,5 @@ To use this application, follow these steps:
 1. **Clone Repository:** Clone this repository to your local machine.
    
    ```bash
-   git clone https://github.com/yourusername/heart-rate-monitor.git
+   git clone https://github.com/yourusername/heart-rate-monitor.git](https://github.com/vicky16898/Wireless-Heart-Rate-Monitor.git
 
